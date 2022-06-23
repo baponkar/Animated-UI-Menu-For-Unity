@@ -4,4 +4,4 @@
 ![ScreenShoot2]("/ScreenShot/Screenshot2.png")
 
 
-## [Credits]("\Assets\CREDITS.md")
+## [Credits]("/Assets/CREDITS.md")
